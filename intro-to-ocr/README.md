@@ -1,4 +1,4 @@
-# LAN BUDGET
+# INTRO TO OCR
 
 **EN:** Alright, I'm feeling generous today, so here’s the flag on the house! Just copy-paste it, submit, and we’re both golden. Seriously, though, don’t go typing it out one letter at a time—that would be painfully tragic. 😆
 

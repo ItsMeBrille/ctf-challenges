@@ -8,6 +8,8 @@ Flag format is `FLAG{*}` if not other is given.
 * Misc
   - [lan-budget](lan-budget)
   - [sistema-operatum](sistema-operatum)
+* Programming
+  - [intro-to-ocr](intro-to-ocr)
 * Forensics
   - [network-profile](network-profile)
 * OSINT
