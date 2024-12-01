@@ -6,7 +6,7 @@ PS: Flag format is **FLAGG**
 
 **NO:** Dette er et GitHub-repo jeg lagde for lenge siden, som jeg fant igjen i arkivet. Jeg har lest teksten mange ganger nå, men jeg skjønner ikke hvorfor noen sier at jeg opptrer mistenksomt?
 
-PS: Flagg formatet er **FLAGG**
+PS: Flagg formatet er **FLAGG{}**
 
 ## Files
 
